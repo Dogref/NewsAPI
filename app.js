@@ -10,7 +10,7 @@ const detalhesNoticias = document.getElementById("detalhesNoticias");
 
 var dadosNoticias = [];
 
-const API_KEY = "399824b232a1497d86b892ff5eb91ef7";
+const API_KEY = "af8c482cdd78411493aad686f6af8fcf";
 const NOTICIAS_DESTAQUE = "https://newsapi.org/v2/top-headlines?country=us&apiKey=";
 const NOTICIAS_GERAIS = "https://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=";
 const NOTICIAS_NEGOCIOS = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=";
