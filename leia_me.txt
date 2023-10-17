@@ -1,6 +1,7 @@
 Documentação da API NewsAPI
 
-https://newsapi.org/
+Link da API utilizada: https://newsapi.org/
+Link do Website https://dogref.github.io/NewsAPI/
 
 A API NewsAPI é uma ferramenta que fornece acesso a várias fontes de notícias de todo o mundo. Ela permite que você obtenha notícias por categoria, país, idioma, palavras-chave e muito mais. Abaixo está a documentação do código JavaScript fornecido para a integração com a API NewsAPI.
 Endpoints da API:
